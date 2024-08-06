@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #000000, #3f3d3d);
+}
+
+
+.navbar-nav a:hover{
+    color: red;
+}
+
+.navbar-brand {
+    cursor: default;
+}
+
